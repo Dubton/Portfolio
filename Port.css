@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body{
+    height: 100%;
+    width: 100%;
+}
+
+body{
+    background-image: linear-gradient(to bottom right, rgb(137, 30, 70), rgb(103, 62, 24));
+    background-size: cover;
+    background-position: fixed;
+}
